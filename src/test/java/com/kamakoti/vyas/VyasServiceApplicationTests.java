@@ -1,4 +1,4 @@
-package com.kamakoti.VyasService;
+package com.kamakoti.vyas;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

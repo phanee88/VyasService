@@ -1,4 +1,4 @@
-package com.kamakoti.VyasService;
+package com.kamakoti.vyas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
